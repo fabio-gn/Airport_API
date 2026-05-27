@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (IMPORTANT - see explanation below)
+venv/
+.venv/
+
+# Test files
+tests/
+
+# Build / distribution artifacts
+build/
+dist/
+
+# IDE / system files
+.idea/
+.vscode/
+.DS_Store
+
+# Git
+.git/
+.gitignore
